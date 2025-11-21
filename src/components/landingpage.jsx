@@ -166,7 +166,7 @@ export default function LandingPage() {
         >
           <input type="hidden" name="_captcha" value="false" />
           <input type="hidden" name="_subject" value="New AI WhatsApp Lead!" />
-<input type="hidden" name="_next" value="http://localhost:5173/thank-you" />
+<input type="hidden" name="_next" value="https://salesrush.netlify.app/thank-you" />
 
           <input
             name="businessName"
