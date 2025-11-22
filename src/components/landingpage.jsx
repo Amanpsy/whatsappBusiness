@@ -18,9 +18,7 @@ export default function LandingPage() {
           all through WhatsApp. Your AI assistant works <span className="text-green-400">24/7.</span>
         </p>
 
-        <button className="px-12 py-4 bg-green-500 hover:bg-green-400 text-black font-bold rounded-full text-xl transition-all shadow-[0_0_20px_rgba(34,197,94,0.4)] hover:scale-110">
-          Get Free Demo
-        </button>
+
 
         <div className="flex gap-6 mt-10 opacity-70">
           <p>⚡ No setup needed</p>
