@@ -141,13 +141,11 @@ export default function LandingPage() {
         <p className="text-gray-400 mb-12 text-lg">Start free. Cancel anytime.</p>
 
         <div className="max-w-lg mx-auto bg-black p-12 rounded-3xl border border-gray-800 shadow-xl hover:border-green-400 transition-all hover:scale-105">
-          <h3 className="text-5xl font-bold text-green-400 mb-4">₹499/mo</h3>
+          <h3 className="text-5xl font-bold text-green-400 mb-4">Growth Plan ₹499/month</h3>
           <p className="text-gray-300 mb-8 text-lg">
             Unlimited messages • AI Replies • Lead Capture • Dashboard
           </p>
-          <button className="px-12 py-4 bg-green-500 hover:bg-green-400 text-black font-bold rounded-full text-xl transition-all shadow-lg hover:scale-110">
-            Start Free Trial
-          </button>
+          
         </div>
       </section>
 
